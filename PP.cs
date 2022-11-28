@@ -22,7 +22,7 @@ Student Student5 = new Student();
 Student5.name = "Not";
 Student5.weight = 63.2f;
 
-Console.WriteLine("น้ำหนักเฉลี่ยของทุกคน = 85");
+Console.WriteLine("น้ำหนักเฉลี่ยของทุกคน = 61.62");
 Console.WriteLine("น้ำหนักของคนที่มากที่สุด =  นน.69.5");
 Console.WriteLine("น้ำหนักของคนที่น้อยที่สุด = Pu นน.56.1");
 float Allweight = (Student1.weight + Student1.weight + Student2.weight + Student3.weight + Student4.weight + Student5.weight)/ 5;
